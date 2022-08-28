@@ -1,0 +1,23 @@
+{
+  "name": "stats-preview-card-component-backend",
+  "version": "1.0.0",
+  "description": "backend with my solution for stats preview card component in frontendmentor",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index",
+    "start": "node index"
+  },
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "author": "ricardo mejias",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
